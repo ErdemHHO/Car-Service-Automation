@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C504B7A2-084D-4017-B480-AD090E516698}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AracServis</RootNamespace>
+    <AssemblyName>Vedia Oto-Servis</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Atyourservice-Service-Categories-Car-Repair.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracEkle.Designer.cs">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracServisOtomasyonDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AracServisOtomasyonDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AracSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracSil.Designer.cs">
+      <DependentUpon>AracSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriEkle.Designer.cs">
+      <DependentUpon>MusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriGuncelle.Designer.cs">
+      <DependentUpon>MusteriGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriSil.Designer.cs">
+      <DependentUpon>MusteriSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelEkle.Designer.cs">
+      <DependentUpon>PersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelGiris.Designer.cs">
+      <DependentUpon>PersonelGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelGuncelle.Designer.cs">
+      <DependentUpon>PersonelGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelSil.Designer.cs">
+      <DependentUpon>PersonelSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServisGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServisGuncelle.Designer.cs">
+      <DependentUpon>ServisGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServisSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServisSil.Designer.cs">
+      <DependentUpon>ServisSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sinif.cs" />
+    <Compile Include="YedekParcaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaEkle.Designer.cs">
+      <DependentUpon>YedekParcaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServisEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServisEkle.Designer.cs">
+      <DependentUpon>ServisEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekParcaGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaGuncelle.Designer.cs">
+      <DependentUpon>YedekParcaGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YedekParcaSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YedekParcaSil.Designer.cs">
+      <DependentUpon>YedekParcaSil.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracEkle.resx">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracSil.resx">
+      <DependentUpon>AracSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriEkle.resx">
+      <DependentUpon>MusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriGuncelle.resx">
+      <DependentUpon>MusteriGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriSil.resx">
+      <DependentUpon>MusteriSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelEkle.resx">
+      <DependentUpon>PersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelGiris.resx">
+      <DependentUpon>PersonelGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelGuncelle.resx">
+      <DependentUpon>PersonelGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelSil.resx">
+      <DependentUpon>PersonelSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ServisGuncelle.resx">
+      <DependentUpon>ServisGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServisSil.resx">
+      <DependentUpon>ServisSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaEkle.resx">
+      <DependentUpon>YedekParcaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServisEkle.resx">
+      <DependentUpon>ServisEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaGuncelle.resx">
+      <DependentUpon>YedekParcaGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YedekParcaSil.resx">
+      <DependentUpon>YedekParcaSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AracServisOtomasyonDataSet.xsc">
+      <DependentUpon>AracServisOtomasyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AracServisOtomasyonDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AracServisOtomasyonDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AracServisOtomasyonDataSet.xss">
+      <DependentUpon>AracServisOtomasyonDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Atyourservice-Service-Categories-Car-Repair.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

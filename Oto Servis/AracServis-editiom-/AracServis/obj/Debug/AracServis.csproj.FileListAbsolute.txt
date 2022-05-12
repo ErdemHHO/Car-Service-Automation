@@ -1,0 +1,52 @@
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.AssemblyReference.cache
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.Anasayfa.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.AracEkle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.AracSil.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriEkle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriGuncelle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriSil.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelEkle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelGiris.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelGuncelle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelSil.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.Properties.Resources.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisGuncelle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisSil.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaEkle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisEkle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaGuncelle.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaSil.resources
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.GenerateResource.cache
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.CoreCompileInputs.cache
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.exe.config
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.exe
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.pdb
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\Vedia Oto-Servis.exe
+C:\Users\Alpay\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\Vedia Oto-Servis.pdb
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.exe.config
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.exe
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\bin\Debug\Vedia Oto-Servis.pdb
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.AssemblyReference.cache
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.Anasayfa.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.AracEkle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.AracSil.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriEkle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriGuncelle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.MusteriSil.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelEkle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelGiris.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelGuncelle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.PersonelSil.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.Properties.Resources.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisGuncelle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisSil.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaEkle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.ServisEkle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaGuncelle.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.YedekParcaSil.resources
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.GenerateResource.cache
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\AracServis.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\Vedia Oto-Servis.exe
+C:\Users\erdem\Desktop\Oto Servis\AracServis-caner24editiom-\AracServis\obj\Debug\Vedia Oto-Servis.pdb
