@@ -1,2 +1,2 @@
 # Car-Service-Automation
-Car service automation with C# and MsSQL. We developed this program with my friends Mehmet Yusuf Alpay and Özer Armağan...
+Car service automation with C# and MsSQL.
